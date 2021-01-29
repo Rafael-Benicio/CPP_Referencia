@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1611364249 source:/home/rafael/Documentos/Programa/Cpp/Aprendendo_cpp/extern/extern/auxiliar.cpp
+	<iostream>
+
+1611364268 source:/home/rafael/Documentos/Programa/Cpp/Aprendendo_cpp/extern/extern/main.cpp
+	<iostream>
+	"variaveis.h"
+
+1611364211 /home/rafael/Documentos/Programa/Cpp/Aprendendo_cpp/extern/extern/variaveis.h
+
